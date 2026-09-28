@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "aulaplan-jalr",
+    "aulaplan-jalr": "aulaplan-jalr"
+  },
+  "targets": {},
+  "etags": {}
+}
